@@ -7,7 +7,6 @@ class Student:
     def display(self):
         print(f"Name: {self.name}, Marks: {self.marks}")
 
-# Object banake test karo
 s1 = Student("Mahim", 95)
 s1.display()
 
